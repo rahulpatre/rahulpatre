@@ -20,12 +20,12 @@
 ### Problem Solving
 - **250+ DSA problems** solved across [LeetCode (`atmel328p`)](https://leetcode.com/u/atmel328p/), Codeforces, and GeeksforGeeks.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulpatre&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
 ### Outside the Terminal
-- 
 - Lifting, playing rapid chess, and exploring.
+- Listening to music listening to more music. 
 
-**Connect:** [LinkedIn]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/rahul-patre-13ba80315/)) • [LeetCode](https://leetcode.com/u/atmel328p/) • [Email](mailto:rahulpatre833@gmail.com)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/rahul-patre-13ba80315/) • [LeetCode](https://leetcode.com/u/atmel328p/) • [Email](mailto:rahulpatre833@gmail.com)
